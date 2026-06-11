@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <div>Bienvenidos a Mis Ancestros!</div>
+    <div>Bienvenidos a Mis Ancestros...</div>
   );
 }
