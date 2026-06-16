@@ -1,5 +1,8 @@
 export default function Home() {
   return (
-    <div>Bienvenidos a Mis Ancestros...</div>
+    <div>
+      <h1>Bienvenidos!!</h1>
+      <p>Estas en Mis Ancestros. Una pagina de historia familiar</p>
+    </div>
   );
 }
